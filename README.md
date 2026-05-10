@@ -4,7 +4,7 @@ This repository documents practical FortiGate configurations, deployment procedu
 
 ---
 
-## Available Documentation
+## Documentations & Videos
 
 1- FortiGate Initial Configuration Guide
 
