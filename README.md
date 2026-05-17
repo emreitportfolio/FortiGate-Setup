@@ -12,7 +12,7 @@ Technical Documentation (PDF):
 https://github.com/emreitportfolio/FortiGate-Setup/blob/main/FortiGate%20Initial%20Configuration%20Guide.pdf
 
 YouTube Video:
-https://www.youtube.com/watch?v=j_ZeNwzhkMM
+https://youtu.be/g_ET6cr28hs
 
 ---
 
