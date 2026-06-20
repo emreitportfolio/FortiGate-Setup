@@ -10,6 +10,7 @@ This repository documents practical FortiGate configurations, deployment procedu
 
 Technical Documentation (PDF):
 https://github.com/emreitportfolio/FortiGate-Setup/blob/main/1-%20FortiGate%20Initial%20Setup%20Guide.pdf
+
 YouTube Video:
 https://youtu.be/g_ET6cr28hs
 
