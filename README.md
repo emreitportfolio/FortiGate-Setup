@@ -27,8 +27,7 @@ https://github.com/emreitportfolio/FortiGate-Setup/blob/main/2-%20FortiGate%20LA
 
 YouTube Video:
 https://www.youtube.com/watch?v=wXaH2nbRWN8
-
-
+#
 3- FortiGate WAN Configuration
 
 Technical Documentation (PDF):
