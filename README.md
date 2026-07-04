@@ -1,4 +1,5 @@
 # FortiGate Setup
+
 This repository documents practical FortiGate configurations, deployment procedures, and technical implementation scenarios designed for real-world enterprise environments.
 
 ---
