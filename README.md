@@ -19,7 +19,7 @@ https://github.com/emreitportfolio/FortiGate-Setup/blob/main/1-%20FortiGate%20In
 
 YouTube Video:
 https://youtu.be/g_ET6cr28hs
-##
+#
 2- FortiGate LAN Configuration
 
 Technical Documentation (PDF):
