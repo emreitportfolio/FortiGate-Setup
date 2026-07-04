@@ -8,6 +8,7 @@ This repository documents practical FortiGate configurations, deployment procedu
 
 1. FortiGate Initial Setup Guide
 2. FortiGate LAN Configuration
+3. FortiGate WAN Configuration
 
 ## Documentations & Videos
 
@@ -28,6 +29,14 @@ https://github.com/emreitportfolio/FortiGate-Setup/blob/main/2-%20FortiGate%20LA
 YouTube Video:
 https://www.youtube.com/watch?v=wXaH2nbRWN8
 
+
+3- FortiGate WAN Configuration
+
+Technical Documentation (PDF):
+https://github.com/emreitportfolio/FortiGate-Setup/blob/main/3-%20FortiGate%20WAN%20Configuration.pdf
+
+YouTube Video:
+https://www.youtube.com/watch?v=HysPfHox0LQ
 
 ---
 
