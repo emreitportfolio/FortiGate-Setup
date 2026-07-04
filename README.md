@@ -4,7 +4,7 @@ This repository documents practical FortiGate configurations, deployment procedu
 
 ---
 
-## Contents
+# Contents
 
 1. FortiGate Initial Setup Guide
 2. FortiGate LAN Configuration
