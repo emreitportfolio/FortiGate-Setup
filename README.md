@@ -47,6 +47,7 @@ https://github.com/emreitportfolio/FortiGate-Setup/blob/main/4-%20FortiGate%20WA
 YouTube Video:
 https://www.youtube.com/watch?v=mzsQg1lu3L8
 
+---
 
 ## Author
 
