@@ -7,7 +7,7 @@ This repository documents practical FortiGate configurations, deployment procedu
 1. FortiGate Initial Setup Guide
 2. FortiGate LAN Configuration
 3. FortiGate WAN Configuration
-4- FortiGate WAN VLAN Interface Configuration
+4. FortiGate WAN VLAN Interface Configuration
 ---
 
 ### Documentations & Videos
