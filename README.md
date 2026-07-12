@@ -39,6 +39,16 @@ YouTube Video:
 https://www.youtube.com/watch?v=HysPfHox0LQ
 
 ---
+#
+4- FortiGate WAN VLAN Interface Configuration
+
+Technical Documentation (PDF):
+https://github.com/emreitportfolio/FortiGate-Setup/blob/main/4-%20FortiGate%20WAN%20VLAN%20Interface%20Configuration.pdf
+
+YouTube Video:
+https://www.youtube.com/watch?v=mzsQg1lu3L8
+
+---
 
 ## Author
 
