@@ -1,11 +1,9 @@
 # FortiGate Setup
-
 This repository documents practical FortiGate configurations, deployment procedures, and technical implementation scenarios designed for real-world enterprise environments.
 
 ---
 
 # Contents
-
 1. FortiGate Initial Setup Guide
 2. FortiGate LAN Configuration
 3. FortiGate WAN Configuration
@@ -13,7 +11,6 @@ This repository documents practical FortiGate configurations, deployment procedu
 ---
 
 ### Documentations & Videos
-
 1- FortiGate Initial Setup Guide
 
 Technical Documentation (PDF):
