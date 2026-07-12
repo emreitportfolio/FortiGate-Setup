@@ -38,7 +38,6 @@ https://github.com/emreitportfolio/FortiGate-Setup/blob/main/3-%20FortiGate%20WA
 YouTube Video:
 https://www.youtube.com/watch?v=HysPfHox0LQ
 
----
 #
 4- FortiGate WAN VLAN Interface Configuration
 
@@ -48,7 +47,6 @@ https://github.com/emreitportfolio/FortiGate-Setup/blob/main/4-%20FortiGate%20WA
 YouTube Video:
 https://www.youtube.com/watch?v=mzsQg1lu3L8
 
----
 
 ## Author
 
