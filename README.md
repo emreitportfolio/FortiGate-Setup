@@ -8,6 +8,7 @@ This repository documents practical FortiGate configurations, deployment procedu
 2. FortiGate LAN Configuration
 3. FortiGate WAN Configuration
 4. FortiGate WAN VLAN Interface Configuration
+5. FortiGate Firewall Policy Configuration
 ---
 
 ### Documentations & Videos
@@ -45,6 +46,16 @@ https://github.com/emreitportfolio/FortiGate-Setup/blob/main/4-%20FortiGate%20WA
 
 YouTube Video:
 https://www.youtube.com/watch?v=mzsQg1lu3L8
+
+#
+5- FortiGate Firewall Policy Configuration
+
+Technical Documentation (PDF):
+
+https://github.com/emreitportfolio/FortiGate-Setup/blob/main/5-%20FortiGate%20Firewall%20Policy%20Configuration.pdf
+
+YouTube Video:
+https://www.youtube.com/watch?v=MSip2iQSyas
 
 ---
 
