@@ -67,6 +67,7 @@ https://github.com/emreitportfolio/FortiGate-Setup/blob/main/6-%20FortiGate%20DN
 
 YouTube Video:
 https://www.youtube.com/watch?v=uXqmmdfPjPc
+
 ---
 
 ## Author
