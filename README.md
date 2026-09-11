@@ -9,6 +9,7 @@ This repository documents practical FortiGate configurations, deployment procedu
 3. FortiGate WAN Configuration
 4. FortiGate WAN VLAN Interface Configuration
 5. FortiGate Firewall Policy Configuration
+6. FortiGate DNAT & Port Forwarding Configuration
 ---
 
 ### Documentations & Videos
@@ -57,6 +58,15 @@ https://github.com/emreitportfolio/FortiGate-Setup/blob/main/5-%20FortiGate%20Fi
 YouTube Video:
 https://www.youtube.com/watch?v=MSip2iQSyas
 
+#
+6- FortiGate DNAT & Port Forwarding Configuration
+
+Technical Documentation (PDF):
+
+https://github.com/emreitportfolio/FortiGate-Setup/blob/main/6-%20FortiGate%20DNAT%20%26%20Port%20Forwarding%20Configuration.pdf
+
+YouTube Video:
+https://www.youtube.com/watch?v=uXqmmdfPjPc
 ---
 
 ## Author
